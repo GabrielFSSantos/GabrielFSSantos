@@ -3,7 +3,7 @@
 Atualmente, estou trabalhando com desenvolvimento de back-end com NodeJS, mas também tenho experiência em desenvolvimento de front-end com React.
 
 ## Sobre mim:
-Sou desenvolvedor web e back-end. Trabalho com as seguintes tecnologias: JavaScript, Nod JS e SQL. Apesar do foco back-end, tenho experiência em construção front-end utilizando React JS e React Native.  
+Sou desenvolvedor web e back-end. Trabalho com as seguintes tecnologias: JavaScript, NodeJS e SQL. Apesar do foco back-end, tenho experiência em construção front-end utilizando ReactJS e React Native.  
 Também possuo experiência nas seguintes tecnologias: Git, Scrum e FIGMA.
 
 ### Skills: 
