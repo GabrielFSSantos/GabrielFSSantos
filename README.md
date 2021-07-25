@@ -4,8 +4,6 @@
 Sou desenvolvedor web e back-end. Trabalho com as tecnologias NodeJS, TypeScrip, Graphql, MongoDB, PostgreSQ, MySQL, Amazon Elasticsearch Service.
 Apesar do foco back-end, tenho conhecimento em construção front-end utilizando React JS e React Native. Também possuo experiência em Git, Scrum e FIGMA.
 
-Atualmente, estou trabalhando com desenvolvimento de back-end web na [Goclin](goclin.com) .
-
 ### Technologies: 
 C, Java, JavaScript, NodeJS, TypeScrip, Graphql, MongoDB, PostgreSQ, MySQL, Amazon ES, HTML, CSS, React, React Native.
 
