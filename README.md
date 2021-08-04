@@ -1,11 +1,10 @@
 
 # Oi eu sou o Gabriel👋
 
-Sou desenvolvedor web back-end. Trabalho com as tecnologias NodeJS, TypeScrip, Graphql, MongoDB, PostgreSQ, MySQL, Amazon Elasticsearch Service.
-Apesar do foco back-end, tenho conhecimento em construção front-end utilizando React JS, React Native e Vue JS. Também possuo experiência em Git, Scrum e FIGMA.
+Software engineer React | Node, estudante de Sistemas de informação e amante da tecnologia. Adoro desenvolver projetos e aprimorar meus conhecimentos na área, desde pequenos experimentos como grandes softwares. A programação está mudando o mundo.
 
 ### Technologies: 
-C, Java, JavaScript, NodeJS, TypeScrip, Graphql, MongoDB, PostgreSQ, MySQL, Amazon ES, HTML, CSS, React, React Native, VueJS.
+C, Java, JavaScript, TypeScript, Node JS, MySQL, PostgreSQL, Graphql, Amazon ES, HTML, CSS, React, React Native, VueJS.
 
 **:flower_playing_cards: Animes | :space_invader: Games | :computer: Programming**
 
